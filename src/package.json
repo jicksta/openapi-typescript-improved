@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/handlebars": "^4.0.34",
+    "@types/node": "^8.0.13"
+  }
+}
